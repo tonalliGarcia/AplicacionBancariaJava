@@ -1,6 +1,6 @@
 # Proyecto: Aplicación Bancaria en Java
 
-##¿Qué hace el proyecto?
+## ¿Qué hace el proyecto?
 Este proyecto consiste en una aplicación bancaria desarrollada en Java que simula las operaciones básicas que un cliente puede realizar en su cuenta corriente. Permite a los usuarios consultar su saldo, realizar retiros y depósitos, todo ello a través de una interfaz de línea de comandos intuitiva.
 
 ## Características principales:
@@ -10,7 +10,7 @@ Este proyecto consiste en una aplicación bancaria desarrollada en Java que simu
 - **Interfaz intuitiva:** Utiliza un menú de opciones para facilitar la interacción con el usuario.
 - **Manejo de errores:** Incluye validaciones para casos como saldo insuficiente durante los retiros.
 
-##¿Por qué el proyecto es útil?
+## ¿Por qué el proyecto es útil?
 La aplicación bancaria en Java es útil porque proporciona a los usuarios una herramienta conveniente y segura para gestionar sus finanzas personales. Permite realizar operaciones bancarias básicas de manera eficiente, ayudando a mantener un control adecuado de los fondos disponibles en la cuenta corriente.
 
 ##¿Cómo pueden comenzar los usuarios con el proyecto?
