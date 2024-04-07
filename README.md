@@ -13,3 +13,16 @@ Esta es una pequeña aplicación bancaria desarrollada en Java que simula las op
 1. Ejecute la aplicación desde la línea de comandos.
 2. Siga las instrucciones proporcionadas en el menú para realizar las operaciones deseadas.
 3. La aplicación continuará ejecutándose hasta que el usuario elija la opción de salir.
+
+###FlowChart
+
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
