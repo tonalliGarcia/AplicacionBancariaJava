@@ -13,7 +13,7 @@ Este proyecto consiste en una aplicación bancaria desarrollada en Java que simu
 ## ¿Por qué el proyecto es útil?
 La aplicación bancaria en Java es útil porque proporciona a los usuarios una herramienta conveniente y segura para gestionar sus finanzas personales. Permite realizar operaciones bancarias básicas de manera eficiente, ayudando a mantener un control adecuado de los fondos disponibles en la cuenta corriente.
 
-##¿Cómo pueden comenzar los usuarios con el proyecto?
+## ¿Cómo pueden comenzar los usuarios con el proyecto?
 Los usuarios pueden comenzar a utilizar la aplicación bancaria siguiendo estos sencillos pasos:
 
 Clone el repositorio a su máquina local utilizando el siguiente comando:
