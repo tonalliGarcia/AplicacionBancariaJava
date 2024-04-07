@@ -42,6 +42,6 @@ java Main
 ## ¿Dónde pueden recibir ayuda los usuarios con tu proyecto?
 Si los usuarios necesitan ayuda con el proyecto, pueden encontrar información adicional en la documentación incluida en el repositorio. Además, pueden abrir un problema (issue) en GitHub si encuentran algún error o tienen alguna pregunta específica sobre el funcionamiento de la aplicación.
 
-¿Quién mantiene y contribuye con el proyecto?
+## ¿Quién mantiene y contribuye con el proyecto?
 Este proyecto es mantenido por Tonalli Isaias Garcia Garcia (tonalligarcia1994gmail.com) y se aceptan contribuciones de la comunidad de desarrolladores. Si estás interesado en contribuir al proyecto, por favor, consulta las pautas de contribución en el archivo CONTRIBUTING.md en el repositorio. ¡Esperamos tus aportaciones!
 
